@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(255, 38, 0);
+    background-color:rgb(255, 153, 0);
     font-size: 40px;
     text-align: center;
     font-family: 'Pacifico', cursive;
@@ -7,7 +7,7 @@ body{
 }
 
 p{
-color : rgb(255, 153, 0)
+color : rgb(253, 252, 250)
 }
 
 #missao{ 
